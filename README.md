@@ -1,3 +1,3 @@
 # Counter App
 
-to check the App [Click here](https://counterapp-sam.herokuapp.com/)
+to check the App [Click here](https://akash-counter-app.netlify.app/)
